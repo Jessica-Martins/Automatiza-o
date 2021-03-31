@@ -1,0 +1,14 @@
+- Cucumber → [https://bradhick.medium.com/cucumber-js-bdd-na-prática-com-javascript-a398d7b010b1](https://bradhick.medium.com/cucumber-js-bdd-na-pr%C3%A1tica-com-javascript-a398d7b010b1)
+    - Existe implementação em React/Vuejs/Javascript
+    - Procurar algum exemplo de implementação
+    - Plugar no projeto da marcopolo (local/nextexperiences.com.br)
+    - Tentar implementar para alguma feature → Login.
+        - Fazer ele carregar a pagina
+        - Encontra o input de email
+        - Preenche o input de email
+        - Encontra o input de senha
+        - Preenche o input de senha
+        - Encontra Clica em Login
+        - Clica em Login
+        - Verifica se carregou o /user-home
+        
